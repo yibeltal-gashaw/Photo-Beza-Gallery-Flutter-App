@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "241957845106",
+    "project_id": "flush-chat-17b91",
+    "storage_bucket": "flush-chat-17b91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241957845106:android:71ad80b872ab13f5562aeb",
+        "android_client_info": {
+          "package_name": "com.example.photo_beza_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241957845106-8ros0e3p4ne62u0l202eb2og0feahmdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Lp1YLUb1uORkLf1cJ-TnhV1YQnKoc7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241957845106-8ros0e3p4ne62u0l202eb2og0feahmdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241957845106:android:3cae391eb750843a562aeb",
+        "android_client_info": {
+          "package_name": "com.exmple.photo_beza_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241957845106-8ros0e3p4ne62u0l202eb2og0feahmdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Lp1YLUb1uORkLf1cJ-TnhV1YQnKoc7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241957845106-8ros0e3p4ne62u0l202eb2og0feahmdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
